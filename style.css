@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+.text {
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+    color: whitesmoke;
+}
+.photo {
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
